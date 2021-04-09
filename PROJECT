@@ -1,0 +1,7 @@
+domain: git.oriente.com
+repo: k8s-operator
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1
+version: "2"
